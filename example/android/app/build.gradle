@@ -192,7 +192,7 @@ dependencies {
     } else {
         implementation jscFlavor
     }
-    implementation 'androidx.appcompat:appcompat:1.1.0-rc01'
+    implementation 'androidx.appcompat:appcompat:1.5.1'
     implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02'
     implementation 'com.facebook.fresco:animated-gif:1.12.0'
 
