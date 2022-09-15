@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "all-contributors-cli": "^6.8.1",
-    "lerna": "^3.17.0",
+    "lerna": "^5.0.0",
     "lerna-changelog": "^0.8.2",
     "react": "16.9.0",
     "react-native": "0.61.2",
